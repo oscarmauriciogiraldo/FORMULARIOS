@@ -1,0 +1,16 @@
+*,
+::before,
+::after {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/*variables de color */
+:root{
+    --ColorTextos: #002347;
+}
+
+body {
+    font-family: 'Roboto';
+}
